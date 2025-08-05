@@ -8,6 +8,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srjuninn&layout=compact&hide_border=true&title_color=258eb9&text_color=258eb9&bg_color=0d1117" />
 </div>
 
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ryan-Silva19/Ryan-Silva19/output/snake.svg" alt="Snake animation" />
 </div>
